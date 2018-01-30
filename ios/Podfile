@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+target 'RNSwifterSwiftBugDemo' do
+  use_frameworks!
+
+  pod 'SwifterSwift'
+
+end
